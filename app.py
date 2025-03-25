@@ -44,3 +44,6 @@ if uploaded_file is not None:
     st.success(f"Predicted Species: {predicted_class}")
     
     
+# Add a button to link to the GitHub repository
+if st.button("Source Code"):
+    st.write("Check out the source code on [GitHub](https://github.com/Nobi004/butterfly_classification).")
