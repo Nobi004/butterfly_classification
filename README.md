@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #00FFFF; font-size: 64px;">Butterfly-Classification 🦋</h1>
-[Butterfly-Classification web app:](https://www.butterfly-classification-by-nobi.streamlit.app/)
+[Butterfly-Classification web app:](https://butterflyclassification-by-nobi.streamlit.app/)
 
 
 #  1. Introduction
