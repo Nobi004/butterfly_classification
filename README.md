@@ -1,10 +1,5 @@
 <h1 align="center" style="color: #00FFFF; font-size: 64px;">Butterfly-Classification 🦋</h1>
-<!-- <p align="center">
-  <a href="[https://github.com/your-repo-link](https://butterfly-classification-by-nobi.streamlit.app/)" style="color:#00FFFF; font-size: 64px; text-decoration: none;">
-    <b>Butterfly-Classification</b>
-  </a>
-</p> -->
-[Butterfly-Classification](https://butterfly-classification-by-nobi.streamlit.app/)
+[Butterfly-Classification web app:](https://www.butterfly-classification-by-nobi.streamlit.app/)
 
 
 #  1. Introduction
