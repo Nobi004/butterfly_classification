@@ -89,7 +89,9 @@ Prior to training the model, exploratory data analysis (EDA) is conducted to gai
   - Hyperparameter Tuning: Grid search for best dropout rate, batch size.
 ## 4.4 Model Training
  1. Trained for 50 epochs with early stopping.
- 2. GPU-accelerated training on [Google Colab](https://colab.research.google.com/drive/1Jjz4ZIy74ZvBXb2Ct0NL47qjNDdcUiWD?usp=sharing).
+ 2. GPU-accelerated training on
+    -  [Google Colab](https://colab.research.google.com/drive/1Jjz4ZIy74ZvBXb2Ct0NL47qjNDdcUiWD?usp=sharing).
+    -  [Kaggel Notebook](https://www.kaggle.com/code/mdmahmudunnobi/butterfly-classification-using-diff-dl-mdoels)
 
  
 # 5. 📈Evaluation & Results 
