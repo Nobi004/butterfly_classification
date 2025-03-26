@@ -14,9 +14,14 @@
   <img src="https://img.shields.io/badge/Phone-%2B8801530045859-green?style=flat-square&logo=whatsapp">
   <a href="https://www.hackerrank.com/profile/mdmnb435"><img src="https://img.shields.io/badge/Hackerrank-Mahmudun%20Nobi-green?style=flat-square&logo=hackerrank"></a>
 </p>
+<body/>
 <!-- <h1 align="center" style="color: #00FFFF; font-size: 64px;">Butterfly-Classification 🦋</h1> -->
-[Butterfly-Classification web app:](https://butterflyclassification-by-nobi.streamlit.app/)
 
+
+# Notebook links
+   - [Butterfly-Classification web app:](https://butterflyclassification-by-nobi.streamlit.app/)
+   - [Google Colab](https://colab.research.google.com/drive/1Jjz4ZIy74ZvBXb2Ct0NL47qjNDdcUiWD?usp=sharing).
+   - [Kaggel Notebook](https://www.kaggle.com/code/mdmahmudunnobi/butterfly-classification-using-diff-dl-mdoels)
 
 #  1. Introduction
 ## 1.1 Background
