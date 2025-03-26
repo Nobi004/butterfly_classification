@@ -106,20 +106,16 @@ Model
  
 # 6. 🌍Deployment & Web Application 
 ## 6.1 API Development
- Framework: FastAPI / Flask.
- Model hosted on Hugging Face Spaces / Google Cloud.
+ Framework: [Streamlit app](https://butterflyclassification-by-nobi.streamlit.app/)
 ## 6.2 Web Interface
  - Built with Streamlit for an interactive UI.
   - Features: Upload an image.
  Get real-time butterfly species prediction.
  Display top-5 similar species.
-## 6.3 Docker & Cloud Hosting (Optional)
- - Containerized using Docker.
- - Deployment on AWS/GCP for accessibility.
- 
+
 # 7. 📢Discussion & Conclusion 
 ## 7.1 Key Findings
-  -  Achieved 91% accuracy using EfficientNet.
+  -  Achieved 92% accuracy using VGG19 with mixed attention layers.
   -  Fine-tuning improved generalization.
 ## 7.2 Limitations
   - Small dataset; could benefit from synthetic data.
